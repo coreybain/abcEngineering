@@ -1,0 +1,11 @@
+framework module ABCWebView {
+  umbrella header "ABCWebView.h"
+
+  export *
+  module * { export * }
+}
+
+module ABCWebView.Swift {
+    header "ABCWebView-Swift.h"
+    requires objc
+}
