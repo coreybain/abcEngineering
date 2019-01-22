@@ -38,7 +38,7 @@ As part of the challenge ABCEngineering incorporates a custom framework for crea
 ### How do I turn this framework into a cocoapod?
 
 While the coding challenge in this case was meant to be limited to 1 hour, I did go over a little but wanted to try and keep it within a 2 hour timeframe. One of the cuts I decided to make was to use a framework in preference to a full on Cocoapod. This was also in part a consideration given the simplicity of the app and how as far as the app is concerned a framework acts in the same was as a Cocoapod. 
-However if anyone did want to convert the framework linked here: to a Cocoapod please use this tutorial to assist you -> .
+However if anyone did want to convert the framework linked here: [ABCWebView](https://github.com/coreybain/abcWebView) to a Cocoapod please use this tutorial to assist you -> [Cocoapod Tutorial](https://medium.com/@shahabejaz/create-and-distribute-private-libraries-with-cocoapods-5b6507b57a03).
 
 ## Credits
 
